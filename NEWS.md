@@ -1,4 +1,10 @@
 
+# vctrs 0.3.5
+
+* Maintenance release for CRAN checks. Fixed building of vignette with
+  testthat 3.0.0 and a gcc11 warning.
+
+
 # vctrs 0.3.4
 
 * Fixed a GCC sanitiser error revealed by CRAN checks.

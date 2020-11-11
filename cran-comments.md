@@ -1,5 +1,5 @@
 
-Attempt at fixing the gcc-asan error.
+Should fix the CRAN check issues.
 
 ## Test environments
 
@@ -12,8 +12,3 @@ Attempt at fixing the gcc-asan error.
 ## R CMD check results
 
 0 errors | 0 warnings | 0 notes
-
-
-## Revdep checks
-
-We ran checks on revdeps of vctrs, dplyr, and tidyr. No problems were found.
